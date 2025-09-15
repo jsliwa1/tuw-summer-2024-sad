@@ -27,5 +27,3 @@ Celem było przeprowadzenie trzech niezależnych analiz ekonomicznych na podstaw
 - Inflacja i jej spadek nie oznaczają obniżki cen, lecz jedynie spowolnienie tempa ich wzrostu.  
 - Wydatki na B+R w Polsce konsekwentnie rosną, szczególnie w sektorze przedsiębiorstw.  
 - Nieruchomości pełniły rolę ochrony przed inflacją, szczególnie w latach 2021–2022, choć ich atrakcyjność inwestycyjna zmniejszyła się w 2023.  
-
-Politechnika Warszawska, 2024
