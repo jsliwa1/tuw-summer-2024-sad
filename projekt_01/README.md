@@ -1,4 +1,4 @@
-# SAD 2024L – Projekt cz. 1
+# Statystyka w Analizie Danych – Projekt 2
 
 ## Autorzy
 - Alina Yermakova
