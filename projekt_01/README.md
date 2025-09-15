@@ -1,4 +1,4 @@
-# Statystyka w Analizie Danych – Projekt 2
+# Statystyka w Analizie Danych – Projekt 1
 
 ## Autorzy
 - Alina Yermakova
